@@ -39,7 +39,7 @@ Promising proposals will be selected for further support, including further feed
 
 [Plaintext Group](https://www.plaintextgroup.com/) is a technology innovation policy initiative being developed by <a href="https://schmidtfutures.com/">Schmidt Futures</a>. Schmidt Futures' incubation of Plaintext Group is part of our effort to take on important public problems where systemic solutions may be available, by creating interdisciplinary institutions of exceptional people.
 
-If you are interested in collaborating with us, drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgroup.com).
+If you are interested in collaborating with us, drop us a note at [contact@plaintextgroup.com](mailto:contact@plaintextgroup.com).
 
 ### Why did you start this?
 
@@ -47,11 +47,11 @@ We'd like to fund systemic improvements in the open source software ecosystem â€
 
 ### My organization would like to collaborate with you on this initiative. How can we help?
 
-Please drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgroup.com).
+Please drop us a note at [contact@plaintextgroup.com](mailto:contact@plaintextgroup.com).
 
 ### I have more questions.
 
-Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/issues) or [send us an email](mailto:ashwin@plaintextgroup.com)!
+Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/issues) or [send us an email](mailto:contact@plaintextgroup.com)!
 
 
 [form]: https://97oibfwziii.typeform.com/to/b60y2IZa
