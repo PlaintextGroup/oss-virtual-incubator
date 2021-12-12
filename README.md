@@ -35,7 +35,7 @@ Promising proposals will be selected for further support, including further feed
 
 ### Why did you start this?
 
-We'd like to fund systemic improvements in the open source software ecosystem – rather than just funding a specified list of OSS projects, we'd like to take risks on novel ideas that may have an outsize impact and improve sustainability for a wide variety of projects within the open source software ecosystem. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together.
+We'd like to fund systemic improvements in the open source software ecosystem – rather than just funding a specified list of OSS projects, we'd like to take bets on risky or novel ideas that may have an outsize impact and improve sustainability for a wide variety of projects within the open source software ecosystem. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together.
 
 ### What is Plaintext Group?
 
