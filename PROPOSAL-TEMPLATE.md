@@ -6,9 +6,9 @@
 
 <!-- A short, one-sentence description of the proposal. -->
 
-### Author
+### Author(s)
 
-<!-- Put your GitHub username(s) here. The proposal author will "own" the proposal and will be able to accept future changes to it. -->
+<!-- Put your GitHub username(s) here. The proposal author(s) will "own" the proposal and will be able to accept future PRs that change it. -->
 
 ### Proposal body
 
