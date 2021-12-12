@@ -1,6 +1,6 @@
 # Open Source Software Virtual Incubator
 
-👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or expertise from us or our partners. - [@epicfaace](https://github.com/epicfaace), from [Plaintext Group](https://www.plaintextgroup.com/)
+👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or other expertise from us or our partners. - [@epicfaace](https://github.com/epicfaace), from [Plaintext Group](https://www.plaintextgroup.com/)
 
 ## tl;dr
 
