@@ -39,9 +39,9 @@ We'd like to fund systemic improvements in the open source software ecosystem â€
 
 ### What is Plaintext Group?
 
-<img width="300" alt="Highlight_1@2x" src="https://user-images.githubusercontent.com/1689183/130452345-dd163756-08a9-491b-994f-1d04da98fda5.png">
+<a href="https://www.plaintextgroup.com/"><img width="300" alt="Highlight_1@2x" src="https://user-images.githubusercontent.com/1689183/130452345-dd163756-08a9-491b-994f-1d04da98fda5.png"></a>
 
-Plaintext Group is a technology innovation policy initiative being developed by <a href="https://schmidtfutures.com/">Schmidt Futures</a>. Schmidt Futures' incubation of Plaintext Group is part of our effort to take on important public problems where systemic solutions may be available, by creating interdisciplinary institutions of exceptional people.
+[Plaintext Group](https://www.plaintextgroup.com/) is a technology innovation policy initiative being developed by <a href="https://schmidtfutures.com/">Schmidt Futures</a>. Schmidt Futures' incubation of Plaintext Group is part of our effort to take on important public problems where systemic solutions may be available, by creating interdisciplinary institutions of exceptional people.
 
 If you are interested in collaborating with us, drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgroup.com).
 
