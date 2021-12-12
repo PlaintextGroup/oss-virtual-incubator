@@ -5,7 +5,7 @@
 ## tl;dr
 
 1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem.
-2. You can **submit a proposal** by making a PR or filling out this form: [TODO].
+2. You can **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form](form).
 3. You can **get or give feedback** and help refine these ideas through changes and comments on this GitHub repository.
 4. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
 
@@ -20,8 +20,8 @@ However, OSS faces a sustainability problem. While some OSS projects are well-re
 ## 2. Submit a proposal
 
 If you'd like to submit a proposal yourself, you have two options:
-1. Fork this repo and make a copy of [PROPOSAL-TEMPLATE.md](PROPOSAL-TEMPLATE.md). Write up your proposal in the `proposals` directory, then make a pull request to this repository.
-2. If you'd rather just use a form, fill out this form: [TODO]. We will copy over your proposal to this GitHub repository.
+1. Fork this repo and make a copy of [PROPOSAL-TEMPLATE.md](PROPOSAL-TEMPLATE.md). Write up your proposal in the `proposals` directory, then [make a pull request](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) to this repository.
+2. If you'd rather just use a form, [fill out this form](form). Unless you tell us otherwise, we will copy over your proposal to this GitHub repository.
 
 ## 3. Get or give feedback
 
@@ -52,3 +52,6 @@ Please drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgrou
 ### I have more questions.
 
 Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/issues) or [send us an email](mailto:ashwin@plaintextgroup.com)!
+
+
+[form]: https://97oibfwziii.typeform.com/to/b60y2IZa

@@ -1,3 +1,5 @@
+<!-- Please note that by submitting a PR with a new proposal, you agree to release this proposal text under the Creative Commons Zero v1.0 Universal license. See https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/LICENSE. -->
+
 ### Title
 
 <!-- A short, pithy title for the proposal. -->
