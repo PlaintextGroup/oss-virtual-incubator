@@ -51,4 +51,4 @@ Please drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgrou
 
 ### I have more questions.
 
-Please file a GitHub Issue or [send us an email](mailto:ashwin@plaintextgroup.com)!
+Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/issues) or [send us an email](mailto:ashwin@plaintextgroup.com)!
