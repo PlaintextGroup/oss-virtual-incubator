@@ -33,10 +33,6 @@ Promising proposals will be selected for further support, including further feed
 
 ## FAQ
 
-### Why did you start this?
-
-We'd like to fund systemic improvements in the open source software ecosystem – rather than just funding a specified list of OSS projects, we'd like to take bets on risky or novel ideas that may have an outsize impact and improve sustainability for a wide variety of projects within the open source software ecosystem. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together.
-
 ### What is Plaintext Group?
 
 <a href="https://www.plaintextgroup.com/"><img width="300" alt="Highlight_1@2x" src="https://user-images.githubusercontent.com/1689183/130452345-dd163756-08a9-491b-994f-1d04da98fda5.png"></a>
@@ -44,6 +40,10 @@ We'd like to fund systemic improvements in the open source software ecosystem �
 [Plaintext Group](https://www.plaintextgroup.com/) is a technology innovation policy initiative being developed by <a href="https://schmidtfutures.com/">Schmidt Futures</a>. Schmidt Futures' incubation of Plaintext Group is part of our effort to take on important public problems where systemic solutions may be available, by creating interdisciplinary institutions of exceptional people.
 
 If you are interested in collaborating with us, drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgroup.com).
+
+### Why did you start this?
+
+We'd like to fund systemic improvements in the open source software ecosystem – rather than just funding a specified list of OSS projects, we'd like to take bets on risky or novel ideas that may have an outsize impact and improve sustainability for a wide variety of projects within the open source software ecosystem. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together.
 
 ### I'm a funder and would like to collaborate with you. How can I help?
 
