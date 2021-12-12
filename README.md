@@ -45,7 +45,7 @@ If you are interested in collaborating with us, drop us a note at [ashwin@plaint
 
 We'd like to fund systemic improvements in the open source software ecosystem – rather than just funding a specified list of OSS projects, we'd like to take bets on risky or novel ideas that may have an outsize impact and improve sustainability for a wide variety of projects within the open source software ecosystem. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together.
 
-### I'd like to collaborate with you on this initiative. How can I help?
+### My organization would like to collaborate with you on this initiative. How can we help?
 
 Please drop us a note at [ashwin@plaintextgroup.com](mailto:ashwin@plaintextgroup.com).
 
