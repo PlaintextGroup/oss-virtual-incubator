@@ -31,7 +31,7 @@ By sharing the proposals publicly on this GitHub repository, we hope this will a
 
 Promising proposals will be selected for further support, including further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help them realize their idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
 - Mini-grants up to $10,000 to support the idea
-- Larger grants ($100K+) for more developed and advanced ideas
+- Larger grants ($100K+) for more developed and large-scale ideas
 - Help with legislative and government advocacy for a particular policy idea
 
 ## FAQ
