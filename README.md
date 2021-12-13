@@ -4,14 +4,15 @@
 
 ## tl;dr
 
+0. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
 1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem.
-2. You can **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form][form].
-3. You can **get or give feedback** and help refine these ideas through changes and comments on this GitHub repository.
-4. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
+1. You can **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form][form].
+1. You can **get or give feedback** and help refine these ideas through changes and comments on this GitHub repository.
+1. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
 
 ## 1. Ideas wanted
 
-Like roads and bridges for the digital world, open source software (OSS) makes up much of our digital infrastructure and underlies many critical software systems, both public and private. Sometimes referred to as "free and open source software" (FOSS), OSS can be used, modified, and shared by the public according to its terms of distribution.
+Like [roads and bridges](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) for the digital world, open source software (OSS) makes up much of our digital infrastructure and underlies many critical software systems, both public and private. Sometimes referred to as "free and open source software" (FOSS), OSS can be used, modified, and shared by the public according to its terms of distribution.
 
 However, OSS faces a sustainability problem. While some OSS projects are well-resourced by companies and non-profit organizations, other OSS code is maintained and released by people who struggle to monetize their work. Moreover, flaws in OSS has been used to mount supply chain attacks such as [Heartbleed](https://heartbleed.com/) and, more recently, [log4j](https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability/). Traditional methods of resourcing OSS development and maintenance – such as corporate or philanthropic donations, [crowdsourcing](https://babeljs.io/blog/2021/05/10/funding-update), or [volunteer time](https://twitter.com/FiloSottile/status/1469441487175880711) – may not be enough.
 
