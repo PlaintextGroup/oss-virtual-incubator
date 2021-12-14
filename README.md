@@ -15,7 +15,7 @@ Like [roads and bridges](https://www.fordfoundation.org/work/learning/research-r
 
 However, OSS faces a sustainability problem. While some OSS projects are well-resourced by companies and non-profit organizations, other OSS code is maintained and released by people who struggle to monetize their work. Moreover, flaws in OSS has been used to mount supply chain attacks such as [Heartbleed](https://heartbleed.com/) and, more recently, [log4j](https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability/). Traditional methods of resourcing OSS development and maintenance – such as corporate or philanthropic donations, [crowdsourcing](https://babeljs.io/blog/2021/05/10/funding-update), or [volunteer time](https://twitter.com/FiloSottile/status/1469441487175880711) – may not be enough.
 
-**We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem.** We welcome ideas from around the world, and they can range from specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools".
+**We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem.** We welcome ideas from around the world, and they can range from research proposals to specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools".
 
 ## 2. Submit a proposal
 
@@ -47,6 +47,10 @@ If you are interested in collaborating with us, drop us a note at [contact@plain
 ### Why did you start this?
 
 We'd like to fund systemic improvements in the open source software ecosystem – rather than just funding a specified list of OSS projects, we'd like to take bets on risky or novel ideas that may have an outsize impact and improve sustainability for a wide variety of projects within the open source software ecosystem. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together.
+
+### Does a proposal to improve a specific OSS project count?
+
+As long as it fits the goal of systemically improving the sustainability of the OSS ecosystem, it counts.
 
 ### My organization would like to collaborate with you on this initiative. How can we help?
 
