@@ -4,8 +4,7 @@
 
 ## tl;dr
 
-0. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
-1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem.
+1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
 1. You can **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form][form].
 1. You can **get or give feedback** and help refine these ideas through changes and comments on this GitHub repository.
 1. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
