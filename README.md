@@ -54,6 +54,10 @@ We'd like to fund systemic improvements in the open source software ecosystem â€
 
 As long as it fits the goal of systemically improving the sustainability of the OSS ecosystem, it counts.
 
+### Do OSS security proposals count?
+
+Yes, OSS security is a big part of sustainability and falls within scope.
+
 ### My organization would like to collaborate with you on this initiative. How can we help?
 
 Please drop us a note at [contact@plaintextgroup.com](mailto:contact@plaintextgroup.com).
