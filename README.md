@@ -42,7 +42,9 @@ Promising proposals will be selected for further support, including further feed
 
 [Plaintext Group](https://www.plaintextgroup.com/) is a technology innovation policy initiative being developed by <a href="https://schmidtfutures.com/">Schmidt Futures</a>. Schmidt Futures' incubation of Plaintext Group is part of our effort to take on important public problems where systemic solutions may be available, by creating interdisciplinary institutions of exceptional people.
 
-If you are interested in collaborating with us, drop us a note at [contact@plaintextgroup.com](mailto:contact@plaintextgroup.com).
+#### Partner organizations
+
+TBD. If you are interested in collaborating with us, drop us a note at [contact@plaintextgroup.com](mailto:contact@plaintextgroup.com).
 
 ### Why did you start this?
 
