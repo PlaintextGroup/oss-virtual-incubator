@@ -2,6 +2,8 @@
 
 👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or other expertise from us or our partners.
 
+Want to talk to further discuss your idea or any questions? [Find a time here](https://meetings.hubspot.com/ashwin33).
+
 ## tl;dr
 
 1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
