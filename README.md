@@ -29,12 +29,18 @@ If you'd like to submit a proposal yourself, you have two options:
 
 By sharing the proposals publicly on this GitHub repository, we hope this will allow you to get feedback on your proposals, give feedback on / learn from other proposals, and collectively refine and fine-tune the proposals based on feedback. You can use [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) to organize these discussions.
 
-## 4. Further support
+## 4. Next steps after submitting
 
-Promising proposals will be selected for further support, including further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help them realize their idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
+Proposals are currently reviewed on a rolling basis. Once you submit it as a PR, we will give some initial feedback / ask some questions and merge it after those changes are made. Once a proposal is made, we will review it and get back to you privately within a couple of weeks with an idea of what kind of support we might be able to provide, as well as the timelines through we might be able to help.
+
+Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help them realize their idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
 - Mini-grants up to $10,000 to support the idea
 - Larger grants ($100K+) for more developed and large-scale ideas
 - Help with legislative and government advocacy for a particular policy idea
+
+Note that certain kinds of support (such as network and connections / policy feedback, smaller grants) may be possible on a quicker time scale than other types of support (smaller grants).
+
+Once a proposal is submitted, you can also submit modifications to your proposals and we will review it again.
 
 ## FAQ
 
