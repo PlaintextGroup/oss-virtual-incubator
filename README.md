@@ -33,7 +33,7 @@ By sharing the proposals publicly on this GitHub repository, we hope this will a
 
 Proposals are currently reviewed on a rolling basis. Once you submit it as a PR, we will give some initial feedback / ask some questions and merge it after those changes are made. Once a proposal is made, we will review it and get back to you privately within a couple of weeks with an idea of what kind of support we might be able to provide, as well as the timelines through we might be able to help.
 
-Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help them realize their idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
+Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help you realize your idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
 - Mini-grants up to $10,000 to support the idea
 - Larger grants ($100K+) for more developed and large-scale ideas
 - Help with legislative and government advocacy for a particular policy idea
