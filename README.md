@@ -38,7 +38,7 @@ Further support may include further feedback from policy and technical experts, 
 - Larger grants ($100K+) for more developed and large-scale ideas
 - Help with legislative and government advocacy for a particular policy idea
 
-Note that certain kinds of support (such as network and connections / policy feedback, smaller grants) may be possible on a quicker time scale than other types of support (smaller grants).
+Note that certain kinds of support (such as network and connections / policy feedback, smaller grants) may be possible on a quicker time scale than other types of support (larger grants).
 
 Once a proposal is submitted, you can also submit modifications to your proposals and we will review it again.
 
