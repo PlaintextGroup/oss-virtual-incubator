@@ -3,11 +3,11 @@
 ## tl;dr
 
 1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
-1. You can do any of the following:
-    1. **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form][form];
-    2. **sign up** if you're interested in receiving updates and more information on how to apply for the Incubator;
-    3. **find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
-1. You can **get or give feedback** and help refine these ideas through [GitHub discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) on existing proposals.
+1. Ways to get involved:
+    1. **Submit a proposal** by [making a PR](PROPOSAL-TEMPLATE.md) or [filling out this form][form];
+    2. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator;
+    3. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
+1. You can **discuss existing proposals** by giving feedback through [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions).
 1. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
 
 ## Introduction
@@ -24,11 +24,18 @@ However, OSS faces a sustainability problem. While some OSS projects are well-re
 
 **We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem.** We welcome ideas from around the world, and they can range from (but are not limited to) research proposals to specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools".
 
+For more details, see our write-up in the WSJ: _[Protect Open-Source Software](https://www.wsj.com/articles/protect-open-source-software-prevention-oss-public-use-cybersecurity-innovation-cyberattack-apache-log4j-11643316125)_.
+
 ## 2. Submit a proposal
 
 If you'd like to submit a proposal yourself, you have two options:
 1. Fork this repo and make a copy of [PROPOSAL-TEMPLATE.md](PROPOSAL-TEMPLATE.md). Write up your proposal in the `proposals` directory, then [make a pull request](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) to this repository.
 2. If you'd rather just use a form, [fill out this form][form]. Unless you tell us otherwise, we will copy over your proposal to this GitHub repository.
+
+Other ways to get involved:
+1. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator or
+1. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
+
 
 ## 3. Get or give feedback
 
