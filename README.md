@@ -83,6 +83,10 @@ Yes, OSS security is a big part of sustainability and falls within scope.
 
 Please drop us a note at [contact@plaintextgroup.com](mailto:contact@plaintextgroup.com).
 
+### I think XXX is unclear in this README and the Incubator can be improved in XXX way.
+
+Feel free to make a pull request!
+
 ### I have more questions.
 
 Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/issues) or [send us an email](mailto:contact@plaintextgroup.com)!
