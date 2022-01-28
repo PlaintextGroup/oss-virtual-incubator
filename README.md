@@ -6,8 +6,8 @@
 1. Ways to get involved:
     1. **Submit a proposal** by [making a PR](PROPOSAL-TEMPLATE.md) or [filling out this form][form];
     2. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator;
-    3. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
-1. You can **discuss existing proposals** by giving feedback through [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions).
+    3. **Discuss** by giving feedback on existing proposals, or asking questions, through [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions).
+    4. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
 1. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
 
 ## Introduction
@@ -34,14 +34,11 @@ If you'd like to submit a proposal yourself, you have two options:
 
 Other ways to get involved:
 1. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator or
-1. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
+2. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
+3. **Discuss** by giving feedback on existing proposals, or asking questions, through [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions).
+4. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
 
-
-## 3. Get or give feedback
-
-By sharing the proposals publicly on this GitHub repository, we hope this will allow you to get feedback on your proposals, give feedback on / learn from other proposals, and collectively refine and fine-tune the proposals based on feedback. You can use [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) to organize these discussions.
-
-## 4. Next steps after submitting
+## 3. Next steps after submitting
 
 Proposals are currently reviewed on a rolling basis. Once you submit it as a PR, expect the following steps after submitting:
 - Within a week, we will conduct an initial review of your PR and ask some initial questions / feedback.
