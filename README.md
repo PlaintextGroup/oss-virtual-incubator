@@ -1,15 +1,17 @@
 # Open Source Software Virtual Incubator
 
-👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or other expertise from us or our partners.
-
-Want to talk to further discuss your idea or any questions? [Find a time here](https://meetings.hubspot.com/ashwin33).
-
 ## tl;dr
 
 1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
 1. You can **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form][form].
 1. You can **get or give feedback** and help refine these ideas through changes and comments on this GitHub repository.
 1. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
+
+## Introduction
+
+👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or other expertise from us or our partners.
+
+Want to talk to further discuss your idea or any questions? [Find a time here](https://meetings.hubspot.com/ashwin33).
 
 ## 1. Ideas wanted
 
