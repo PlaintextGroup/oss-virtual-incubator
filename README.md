@@ -43,7 +43,11 @@ By sharing the proposals publicly on this GitHub repository, we hope this will a
 
 ## 4. Next steps after submitting
 
-Proposals are currently reviewed on a rolling basis. Once you submit it as a PR, we will give some initial feedback / ask some questions and merge it after those changes are made. Once a proposal is made, we will review it and get back to you privately within a couple of weeks with an idea of what kind of support we might be able to provide, as well as the timelines through we might be able to help.
+Proposals are currently reviewed on a rolling basis. Once you submit it as a PR, expect the following steps after submitting:
+- Within a week, we will conduct an initial review of your PR and ask some initial questions / feedback.
+- After the feedback is addressed, we will merge your PR into the repository.
+- We will create a [Discussion topic](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) where you and others can discuss the proposal. 
+- Within a few weeks, we will get back to you privately within a couple of weeks with an idea of what kind of support we might be able to provide, as well as the timelines through we might be able to help.
 
 Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help you realize your idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
 - Mini-grants up to $10,000 to support the idea
