@@ -1,15 +1,20 @@
 # Open Source Software Virtual Incubator
 
-👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or other expertise from us or our partners.
-
-Want to talk to further discuss your idea or any questions? [Find a time here](https://meetings.hubspot.com/ashwin33).
-
 ## tl;dr
 
 1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
-1. You can **submit a proposal** by [making a PR](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) or [filling out this form][form].
-1. You can **get or give feedback** and help refine these ideas through changes and comments on this GitHub repository.
+1. Ways to get involved:
+    1. **Submit a proposal** by [making a PR](PROPOSAL-TEMPLATE.md) or [filling out this form][form];
+    2. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator;
+    3. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
+1. You can **discuss existing proposals** by giving feedback through [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions).
 1. We plan to provide **further support**, such as grants / funding, to promising ideas and proposals.
+
+## Introduction
+
+👋 Hi there! We'd like to try a little experiment to help source, improve, and fund the best ideas to improve OSS sustainability, in a public way. Rather than a traditional RFP process, where the submissions are private, we hope a public submission process creates a resource for the entire community to give feedback on, improve, and collect proposals together. Promising ideas will be provided support such as funding / grants or other expertise from us or our partners.
+
+Want to talk to further discuss your idea or any questions? [Find a time here](https://meetings.hubspot.com/ashwin33).
 
 ## 1. Ideas wanted
 
@@ -19,22 +24,39 @@ However, OSS faces a sustainability problem. While some OSS projects are well-re
 
 **We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem.** We welcome ideas from around the world, and they can range from (but are not limited to) research proposals to specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools".
 
+For more details, see our write-up in the WSJ: _[Protect Open-Source Software](https://www.wsj.com/articles/protect-open-source-software-prevention-oss-public-use-cybersecurity-innovation-cyberattack-apache-log4j-11643316125)_.
+
 ## 2. Submit a proposal
 
 If you'd like to submit a proposal yourself, you have two options:
 1. Fork this repo and make a copy of [PROPOSAL-TEMPLATE.md](PROPOSAL-TEMPLATE.md). Write up your proposal in the `proposals` directory, then [make a pull request](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) to this repository.
 2. If you'd rather just use a form, [fill out this form][form]. Unless you tell us otherwise, we will copy over your proposal to this GitHub repository.
 
+Other ways to get involved:
+1. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator or
+1. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
+
+
 ## 3. Get or give feedback
 
 By sharing the proposals publicly on this GitHub repository, we hope this will allow you to get feedback on your proposals, give feedback on / learn from other proposals, and collectively refine and fine-tune the proposals based on feedback. You can use [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) to organize these discussions.
 
-## 4. Further support
+## 4. Next steps after submitting
 
-Promising proposals will be selected for further support, including further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help them realize their idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
+Proposals are currently reviewed on a rolling basis. Once you submit it as a PR, expect the following steps after submitting:
+- Within a week, we will conduct an initial review of your PR and ask some initial questions / feedback.
+- After the feedback is addressed, we will merge your PR into the repository.
+- We will create a [Discussion topic](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) where you and others can discuss the proposal. 
+- Within a few weeks, we will get back to you privately within a couple of weeks with an idea of what kind of support we might be able to provide, as well as the timelines through we might be able to help.
+
+Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help you realize your idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
 - Mini-grants up to $10,000 to support the idea
 - Larger grants ($100K+) for more developed and large-scale ideas
 - Help with legislative and government advocacy for a particular policy idea
+
+Note that certain kinds of support (such as network and connections / policy feedback, smaller grants) may be possible on a quicker time scale than other types of support (larger grants).
+
+Once a proposal is submitted, you can also submit modifications to your proposal and we will review it again.
 
 ## FAQ
 
@@ -70,3 +92,4 @@ Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/i
 
 
 [form]: https://97oibfwziii.typeform.com/to/b60y2IZa
+[email_form]: https://97oibfwziii.typeform.com/to/QiNvULI9
