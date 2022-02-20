@@ -14,8 +14,7 @@ To conduct a dedicated study for the software ecosystem that shows the resource 
 
 <!-- Put your GitHub username(s) here. The proposal author(s) will "own" the proposal and will be able to accept future PRs that change it. -->
 
-[@coni2k](https://github.com/coni2k)
-
+Serkan Holat - [LinkedIn](https://www.linkedin.com/in/serkanholat/) | [Twitter](https://twitter.com/coni2k) | [GitHub](https://github.com/coni2k)
 
 ### Proposal body
 
