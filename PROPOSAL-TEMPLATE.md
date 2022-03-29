@@ -29,10 +29,11 @@ If you'd like to submit a proposal yourself, you have two options:
 
 <!-- Please answer the following due diligence questions; it's okay to answer "N/A" if you don't know yet. -->
 
-1. **What related work has already been done in this area?** <!-- Insert answer here --> 
-2. **How is this proposal innovative -- what distinguishes it from other related work?** <!-- -->
-3. **Who is your doer -- who will execute the proposed work?** <!-- Insert answer here -->
-4. **How might this work be sustained long-term after an initial seed grant?** <!-- Insert answer here -->
+1. **What's your theory of change -- what impact do you expect this project to have? What's its goal?** <!-- Insert answer here --> 
+2. **What related work has already been done in this area?** <!-- Insert answer here --> 
+3. **How is this proposal innovative -- what distinguishes it from other related work?** <!-- -->
+4. **Who is your doer -- who will execute the proposed work?** <!-- Insert answer here -->
+5. **How might this work be sustained long-term after an initial seed grant?** <!-- Insert answer here -->
 
 ### Resources needed
 
