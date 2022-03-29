@@ -36,7 +36,6 @@ Other ways to get involved:
 1. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator or
 2. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
 3. **Discuss** by giving feedback on existing proposals, or asking questions, through [GitHub Discussions](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions).
-4. **Find a time** to meet with our staff [here](https://meetings.hubspot.com/ashwin33) if you want to discuss any questions or specific ideas.
 
 ## 3. Next steps after submitting
 
