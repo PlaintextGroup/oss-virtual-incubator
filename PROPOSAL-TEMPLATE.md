@@ -7,6 +7,8 @@ If you'd like to submit a proposal yourself, you have two options:
 1. Fork this repo and make a copy of [PROPOSAL-TEMPLATE.md](PROPOSAL-TEMPLATE.md). Write up your proposal in the `proposals` directory, then [make a pull request](https://github.com/PlaintextGroup/oss-virtual-incubator/pulls) to this repository.
 2. If you'd rather just use a form, [fill out this form][form]. Unless you tell us otherwise, we will copy over your proposal to this GitHub repository.
 
+Please remove this header comment once you submit a proposal (so the markdown preview shows up properly).
+
 -->
 
 ### Title
