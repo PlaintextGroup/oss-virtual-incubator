@@ -36,6 +36,18 @@ In response, CHAOSS was founded as a project at the Linux Foundation in 2017. Ov
 
 With respect to the current proposal, we aim to advance three key projects with CHAOSS: (1) developing CHAOSS software to map open source software ecosystems and identify areas of critical concern within a specified ecosystem, (2) advancing CHAOSS diversity, equity, and inclusion (DEI) metrics and programs to help open source projects best center DEI in their own efforts, and (3) building collections of CHAOSS metrics (i.e., metrics models) and making these collections deployable through CHAOSS software.
 
+Each of the three projects leverages the CHAOSS Project's established community and technology in specific ways intended to catalyze adjacent corporate, university, and non-government organization open source software initiatives. 
+
+Outputs of the three projects include: 
+1. Software (CHAOSS/Augur) advanced to build maps of open source software ecosystems  using machine learning and other techniques at a scale previously not possible.    
+2. Processes and collaborations that enable open source software projects to accomplish goals of more diverse, equitable, and inclusive communities, without placing greater strain on oftentimes overloaded project maintainers. 
+3. A hosted software platform **designed** to make newcomer understanding of the health and sustainability of complex, interconnected open source software projects easy to create for their own projects of interest, navigate, and explore for the first time, using CHAOSS metrics models. 
+
+Outcomes of the three projects include: 
+1. Maps of five different, substantial open source software ecosystems, including at least one each from corporatized open source software, scientific open source software, and non-government organization (NGO) open source software. We assert this outcome has the potential to fundamentally alter how open source software is understood by the general population. 
+2. An active, functional DEI Project Badging program that incorporates peer review and constructive feedback to help open source software project maintainers earn and promote credit for their DEI efforts. This outcome builds on the CHAOSS DEI Event badging program's principles.
+3. Increased individual, and organizational engagement in open source software projects enabled by human centered design of CHAOSS metrics models. Our design goal is to make open source software more accessible to newcomers, and to make newcomers needs, and desires more understandable for open source software project maintainers. 
+
 **Project 1: Ecosystem Health and Sustainability.** 
 In almost all areas of open source software, from package managed libraries to core corporatized infrastructure, and scientific software our ability to manage and navigate the complexity of open source ecosystems is limited. While the importance of open-source software is widely acknowledged across research communities, the creation, development, and maintenance of open-source software varies across and within distinct ecosystems. The interdependencies between software and the work undertaken and needed to sustain open-source software at an ecosystem-level are nearly invisible. In response, we will build on the work of the CHAOSS community to make the identification of the properties of open source software ecosystems more visible by mapping known software and critical interdependencies so that we can all better discuss, analyze, coordinate, and improve our software dependent work. Specifically, we will identify and target two big problems in open-source software ecosystems:
 
@@ -104,6 +116,11 @@ Travel: $30,000
 Overhead costs (10%): $40,000
 
 Total:  $440,000
+
+#### Timeline
+During year 1 we will hire a software community manager to coordinate the advancement of projects 1 and 3. We will also hire a graphic designer to advance all three projects.  Our proposed budget covers this first year, during which we plan to complete initial deployments of each project. We will effectively deliver the core technology, design, and community assets by the end of year one. This will include the purchase of computing hardware in the first half of year 1. Year 1 is aimed at building the outputs that catalyze the outcomes for each project. 
+
+During year two the team leads, graduate student, and CHAOSS community will continue to advance the technology, processes, and community to catalyze sustainable advancement of our goals through the efforts of current partners including GitHub, Red Hat Software, VMWare, and other, new partnerships developed during year one.  
 
 
 ### Other links and resources
