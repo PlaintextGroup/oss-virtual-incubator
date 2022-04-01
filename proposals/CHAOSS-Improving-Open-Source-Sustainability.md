@@ -37,7 +37,7 @@ In response, CHAOSS was founded as a project at the Linux Foundation in 2017. Ov
 With respect to the current proposal, we aim to advance three key projects with CHAOSS: (1) developing CHAOSS software to map open source software ecosystems and identify areas of critical concern within a specified ecosystem, (2) advancing CHAOSS diversity, equity, and inclusion (DEI) metrics and programs to help open source projects best center DEI in their own efforts, and (3) building collections of CHAOSS metrics (i.e., metrics models) and making these collections deployable through CHAOSS software.
 
 Each of the three projects leverages the CHAOSS Project's established community and technology in specific ways intended to catalyze adjacent corporate, university, and non-government organization open source software initiatives. 
-(we will do XXX, YYY, etc.) and outcomes (long-term effects of work)
+
 Outputs of the three projects include: 
 1. We will create a new version of software (CHAOSS/Augur), advanced to build maps of open source software ecosystems using machine learning and other techniques at a scale previously not possible.    
 2. We will create metric collections, processes and collaborations that enable open source software projects to accomplish goals of more diverse, equitable, and inclusive communities, without placing greater strain on oftentimes overloaded project maintainers. 
