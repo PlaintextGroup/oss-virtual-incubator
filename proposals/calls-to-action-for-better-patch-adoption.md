@@ -72,17 +72,21 @@ This project will enable future work by myself and others to improve adoption of
 
 2. **What related work has already been done in this area?** <!-- Insert answer here --> 
 
-Package management, dependency chains, open source, and security are a relatively new topic. There is little closely related research, but it is gathering momentum.
+Package management, dependency chains, open source, and security are a relatively new topic. There is little closely related research, but it is gathering momentum. The proposed project will build on and add to the available body of knowledge.
 
-In Dependencies We Trust: How vulnerable are dependencies in software modules? (2015)
+- In Dependencies We Trust: How vulnerable are dependencies in software modules? (2015)
+
 https://repository.tudelft.nl/islandora/object/uuid:3a15293b-16f6-4e9d-b6a2-f02cd52f1a9e
 
 > We studied the npm registry, a popular centralized repository for hosting JavaScript modules by using information from security advisories in order to determine: prevalence of modules depending on vulnerable dependencies, the propagation in the dependency chain and the time window to resolve a vulnerable dependency. This was followed by a qualitative study to understand dependency management practices in order to investigate why dependencies remain unchanged. The outcome of this study shows that one-third of the modules using at least one advisory dependency resolve to a vulnerable version. The qualitative study suggested that a majority of the modules lacked awareness or discussion about known vulnerabilities. Furthermore, the key findings indicate that the context use of the module and breaking changes are potential reasons for not resolving the vulnerable dependency.
 
-Vulnerable open source dependencies: counting those that matter (2018)
+- Vulnerable open source dependencies: counting those that matter (2018)
+
 https://dl.acm.org/doi/abs/10.1145/3239235.3268920
 
 > We found that about 20% of the dependencies affected by a known vulnerability are not deployed, and therefore, they do not represent a danger to the analyzed library because they cannot be exploited in practice. Developers of the analyzed libraries are able to fix (and actually responsible for) 82% of the deployed vulnerable dependencies. The vast majority (81%) of vulnerable dependencies may be fixed by simply updating to a new version, while 1% of the vulnerable dependencies in our sample are halted, and therefore, potentially require a costly mitigation strategy.
+
+- Beyond Metadata: Code-Centric and Usage-Based Analysis of Known Vulnerabilities in Open-Source Software 
 
 https://ieeexplore.ieee.org/abstract/document/8530051 (2018)
 
@@ -90,17 +94,17 @@ https://ieeexplore.ieee.org/abstract/document/8530051 (2018)
 >
 > To evaluate precisely the need and the urgency of a library update, it is necessary to answer the key question: “is the vulnerability exploitable, given the particular way the library is used within the application?”. Answering this question is extremely difficult: vulnerabilities are typically described in advisories that consist of short, high-level, textual descriptions in natural language, whereas a reliable assessment of the exploitability and the potential impact of a vulnerability demands much lower-level, detailed, technical information.
 
-On the Threat of npm Vulnerable Dependencies in Node.js Applications (2020)
+- On the Threat of npm Vulnerable Dependencies in Node.js Applications (2020)
+
 https://arxiv.org/abs/2009.09019
 
 > Our findings show that although 67.93% of the examined applications depend on at least one vulnerable package, 94.91% of the vulnerable packages in those affected applications are classified as having low threat. Moreover, we find that in the case of vulnerable packages classified as having high threat, it is the application's lack of updating that makes them vulnerable, i.e., it is not the existence of the vulnerability that is the real problem.
 
-Out of sight, out of mind? How vulnerable dependencies affect open-source projects (2021)
+- Out of sight, out of mind? How vulnerable dependencies affect open-source projects (2021)
+
 https://link.springer.com/article/10.1007/s10664-021-09959-3
 
 > We found that project activity level, popularity, and developer experience do not translate into better or worse handling of dependency vulnerabilities. We found that most dependency vulnerabilities persist throughout the observation period (mean of 78.4%, 97.7%, and 66.4% for publicly-known vulnerabilities in our Java, Python, and Ruby datasets respectively), and the resolved ones take 3-5 months to fix.
-
-
 
 3. **How is this proposal innovative -- what distinguishes it from other related work?** 
 
