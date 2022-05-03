@@ -72,7 +72,19 @@ We can summarize the study areas as the following:
 - [Open source software subsidies and network compatibility in a mixed duopoly](https://ideas.repec.org/a/ebl/ecbull/eb-13-00806.html) by Mourad Zeroukhi & Thierry Pénard focuses on using different subsidy strategies to increase open-source software usage.
 - [Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and) by OpenForum Europe suggests subsidizing open-source software production, especially related to economic or social value.
 2. **How is this proposal innovative -- what distinguishes it from other related work?** No well-known study provides a detailed framework for implementing a subsidy program and tackling its practical challenges.
-3. **Who is your doer -- who will execute the proposed work?** It may depend on the extensiveness of the study. I'm willing to take responsibility for the execution. However, the proposal contains multiple areas, and collaborating with professional research organizations can be ideal.
+3. **Who is your doer -- who will execute the proposed work?** It may depend on the extensiveness of the study. I'm ready to take responsibility for the execution. However, the proposal contains multiple areas, and collaborating with professional research organizations can be ideal.
+
+On the advocacy side, I am more than willing to work on spreading the idea during or after the study.
+
+We could work on increasing public awareness, as well as actively lobby for the execution of the program:
+- Build a website around the idea to explain it in detail.
+- Share the program with other related organizations and public figures to ask for their support.
+- Prepare presentations and submit talks to events focused on open source.
+- Contact media organizations with a clean story to get more comprehensive public support.
+- Reach out to software companies and developers to get their feedback.
+- Start a petition and ask organizations and individuals to sign and support the idea.
+- Get in touch with the policy-makers who might be interested in this program and get their thoughts on how to move forward.
+
 4. **How might this work be sustained long-term after an initial seed grant?** Providing the framework for this subsidy program should be a one-time study. The related government agencies should carry out the program's implementation if any find it feasible.
 
 ### Resources needed
