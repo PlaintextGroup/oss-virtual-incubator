@@ -12,7 +12,7 @@ The Wikimedia ecosystem, including Wikipedia and Wikidata, has a range of workfl
 
 ### Proposal body
 
-Below is a list of various project models which are common in the Wikimedia ecosystem, each focusing on some aspects of the OSS ecosystem. Since this phase of the proposal process includes public discussion, it present various ideas, and ask what others feel should be priorities. If this proposal is selected, then our team can address one or more of these in a year. All of these ideas scale - they can be done massively for completeness or only in part, so as to prototype and demonstrate the process as applied to OSS.
+Below is a list of various project models which are common in the Wikimedia ecosystem, each focusing on some aspects of the OSS ecosystem. Since this phase of the proposal process includes public discussion, we presents various ideas, and ask what others feel should be priorities. If this proposal is selected, then our team can address one or more of these in a year. All of these ideas scale - they can be done massively for completeness or only in part, so as to prototype and demonstrate the process as applied to OSS.
 
 
 1. Survey and description of [*Wikipedia's* articles on open source software](https://en.wikipedia.org/wiki/Category:Free_software)
@@ -184,7 +184,7 @@ Usually, the most difficult part of organizing good content in the Wikimedia pla
 
 The above presents a list of pilot proposals. We cannot do all of them and would like feedback on which ones we should prioritize to best match with goals of the foundation.
 
-A reasonable scale for any of the projects sketched out here would be about $50,000 per year, all of which will go to personnel who will invoice their labor hours against this. As stated above, the projects can all be rescaled in both directions, e.g. scaled down for prototyping or scaled up for increased impact.
+A reasonable scale for any of the projects sketched out here would be about $50,000 per year, all of which will go to personnel who will invoice their labor hours against this while contributing in accordance with Wikimedia's policies on paid editing. As stated above, the projects can all be rescaled in both directions, e.g. scaled down for prototyping or scaled up for increased impact.
 
 
 ### Other links and resources
