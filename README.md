@@ -24,7 +24,7 @@ However, OSS faces a sustainability problem. While some OSS projects are well-re
 
 **We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem.** We welcome ideas from around the world, and they can range from (but are not limited to) research proposals to specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools", "develop tools or new methodologies to predict open source sustainability or community health".
 
-For more details, see our write-up in the WSJ: _[Protect Open-Source Software](https://www.wsj.com/articles/protect-open-source-software-prevention-oss-public-use-cybersecurity-innovation-cyberattack-apache-log4j-11643316125)_.
+For more details, see our write-up in the WSJ: _[Protect Open-Source Software](https://www.wsj.com/articles/protect-open-source-software-prevention-oss-public-use-cybersecurity-innovation-cyberattack-apache-log4j-11643316125)_ ([non-paywalled version](https://archive.ph/OcgQu)).
 
 ## 2. Submit a proposal
 
