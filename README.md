@@ -24,7 +24,7 @@ However, OSS faces a sustainability problem. While some OSS projects are well-re
 
 **We are seeking the most ambitious and innovative ideas to systemically improve the sustainability of the OSS ecosystem.** We welcome ideas from around the world, and they can range from (but are not limited to) research proposals to specific technical improvements to institution-building to policymaking ideas. Here are some (not exhaustive) examples: "implement X feature in a certain package manager", "perform dependency mapping of the OSS ecosystem", "create a training program for OSS maintainers to learn how to apply to grants", "create a mechanism for the US National Science Foundation to better fund critical OSS libraries", "use X web3 mechanism to create incentives to fund OSS tools", "develop tools or new methodologies to predict open source sustainability or community health".
 
-For more details, see our write-up in the WSJ: _[Protect Open-Source Software](https://www.wsj.com/articles/protect-open-source-software-prevention-oss-public-use-cybersecurity-innovation-cyberattack-apache-log4j-11643316125)_.
+For more details, see our write-up in the WSJ: _[Protect Open-Source Software](https://www.wsj.com/articles/protect-open-source-software-prevention-oss-public-use-cybersecurity-innovation-cyberattack-apache-log4j-11643316125)_. Also see [4. Current funding priorities](#4-current-funding-priorities) for more details on Plaintext's current funding priorities.
 
 ## 2. Submit a proposal
 
@@ -53,6 +53,18 @@ Further support may include further feedback from policy and technical experts, 
 Note that certain kinds of support (such as network and connections / policy feedback, smaller grants) may be possible on a quicker time scale than other types of support (larger grants).
 
 Once a proposal is submitted, you can also submit modifications to your proposal and we will review it again.
+
+## 4. Current funding priorities
+
+While we encourage you to share any proposal that systemically addresses the sustainability of the OSS ecosystem, here are the current funding priorities from Plaintext Group:
+
+### July - December 2022 (current)
+
+We plan for 2022 to focus more narrowly on informing and strengthening US federal policy open source software. This involves three main categories:
+
+1. Emphasizing that "OSS is infrastructure" so it can be seen as something to be maintained long-term. Additionally, broaden the concept of OSS / digital infrastructure to include aspects that may not have been traditionally funded (such as code refactoring, maintenance, community management, and documentation writing).
+2. Helping catalyze and support the implementation of additional avenues of public (US federal government) funding for OSS.
+3. Ensuring that policymakers get feedback and input from the OSS community that they are affecting with their policies. This might involve, for example, additional policymaker education on OSS, or greater OSS community education and engagement with policy.
 
 ## FAQ
 
