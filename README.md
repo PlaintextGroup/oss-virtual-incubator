@@ -54,6 +54,18 @@ Note that certain kinds of support (such as network and connections / policy fee
 
 Once a proposal is submitted, you can also submit modifications to your proposal and we will review it again.
 
+## 4. Current funding priorities
+
+While we encourage you to share any proposal that systemically addresses the sustainability of the OSS ecosystem, here are the current funding priorities from Plaintext Group:
+
+### July - December 2022 (current)
+
+We plan for 2022 to focus more narrowly on informing and strengthening US federal policy open source software. This involves three main categories:
+
+1. Emphasizing that "OSS is infrastructure" so it can be seen as something to be maintained long-term. Additionally, broaden the concept of OSS / digital infrastructure to include aspects that may not have been traditionally funded (such as code refactoring, maintenance, community management, and documentation writing).
+2. Helping catalyze and support the implementation of additional avenues of public (US federal government) funding for OSS.
+3. Ensuring that policymakers get feedback and input from the OSS community that they are affecting with their policies. This might involve, for example, additional policymaker education on OSS, or greater OSS community education and engagement with policy.
+
 ## FAQ
 
 ### What is Plaintext Group?
