@@ -12,7 +12,7 @@ DocumentWrite Labs: Technical Writing and Content Marketing Resource for Open So
 
 ### Proposal body
 
-Technical documentation is at the heart of maintaining and distributing open source packages. According to The Open Source Survey conducted by Github in 2017, [incomplete documentation is the number](https://opensourcesurvey.org/2017/) one problem users face when using open source software. Up-to-date documentation is a great way to support open source projects. 
+Technical documentation is at the heart of maintaining and distributing open source packages. According to The Open Source Survey conducted by Github in 2017, [incomplete documentation is the number one problem](https://opensourcesurvey.org/2017/) users face when using open source software. Up-to-date documentation is a great way to support open source projects. 
 
 Many open-source maintainers experience enormous challenges keeping their projects sustainably funded. Projects that put more time into [their branding and marketing have an easier time attracting funding](https://youtu.be/xaO1jXzDTlY). According to Jeff Lawson, founder of Twilio, technical documentation is the [ultimate form of marketing](https://future.com/podcasts/developers-creative-class-company-innovation/). Our project will show developers how they can use technical documentation as a way to financially sustain their open source projects.
 
