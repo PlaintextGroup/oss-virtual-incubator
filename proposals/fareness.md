@@ -76,7 +76,7 @@ Unable to scale beyond celebrities to the long-tail:
 - Gittip/Gratipay (defunct), Liberapay (active): optional funding of individual teams
 - GitHub Sponsors (active) / Patreon (active): optional funding of individual teams/projects/developers
 - OpenCollective (active): optional funding of individual projects
-- Business Licensing (active): required funding of individual projects; the more adoption within an ecosystem, the more it costs and uncertainty to the ecosystem
+- Business Licensing (active): required funding of individual projects; the more adoption within an ecosystem, the more costs and uncertainty to the ecosystem
 - Developer Protests (occasional): developers delete or break packages due to commercial use without reciprocity; causes industry to double down on celebrity-enterprise relationships and monopolisation
 - TideLift Lifters (active): top packages receive funding and tasks to further enterprise relationships
 - GitHub Accelerator (upcoming): top projects receive funding and training to further enterprise relationships
