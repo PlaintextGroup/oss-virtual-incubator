@@ -103,5 +103,5 @@ Feel free to make a pull request!
 Please [file an issue](https://github.com/PlaintextGroup/oss-virtual-incubator/issues) or [send us an email](mailto:contact@plaintextgroup.com)!
 
 
-[form]: https://97oibfwziii.typeform.com/to/b60y2IZa
-[email_form]: https://97oibfwziii.typeform.com/to/QiNvULI9
+[form]: https://forms.gle/vQg2otaf7RSUSCF8A
+[email_form]: https://forms.gle/2tR7H5EMQ7AnAKjA7
