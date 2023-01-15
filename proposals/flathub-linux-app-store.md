@@ -12,7 +12,7 @@ Promote diversity and sustainability in the Linux desktop community by adding pa
 
 ### Proposal body
 
-The GNOME Foundation and KDE e.V. have been jointly building and growing Flathub as a vendor-neutral service for Linux application developers to build and publish their applications directly to their end users. A healthy application ecosystem is essential for a the success of the OSS desktop, so end-users can trust and control their data and development platforms on the device in front of them.
+The GNOME Foundation and KDE e.V. have been jointly building and growing Flathub as a vendor-neutral service for Linux application developers to build and publish their applications directly to their end users. A healthy application ecosystem is essential for the success of the OSS desktop, so end-users can trust and control their data and development platforms on the device in front of them.
 
 In order to incentivise participation in the Linux application ecosystem, and remove financial barriers that prevent diverse participation, GNOME has sponsored work over the past year to add donations and payments to Flathub via Stripe, as well as a process to verify developer identities and allow direct uploads to ease the publishing process. This year we are planning to launch this work together with appropriate legal and governance setup, and are seeking additional funding to add: subscriptions / recurring donations, review tools to prevent abusive application submissions and automated security/vulnerability scanning. Over time we hope that Flathub can become self-sustaining through transaction fees and corporate sponsorship.
 
