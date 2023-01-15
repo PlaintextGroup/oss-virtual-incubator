@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem. Promising proposals that are selected **might include mini-grants up to $10K or larger ($100K+) grants**.
+1. We want **ambitious and innovative ideas** to systemically improve the sustainability of the OSS ecosystem.
 1. Ways to get involved:
     1. **Submit a proposal** by [making a PR](PROPOSAL-TEMPLATE.md) or [filling out this form][form];
     2. **Sign up** [on this form][email_form] if you're interested in receiving updates and more information on how to apply for the Incubator;
@@ -45,22 +45,17 @@ Proposals are currently reviewed on a rolling basis. Once you submit it as a PR,
 - We will create a [Discussion topic](https://github.com/PlaintextGroup/oss-virtual-incubator/discussions) where you and others can discuss the proposal. 
 - Within a few weeks, we will get back to you privately within a couple of weeks with an idea of what kind of support we might be able to provide, as well as the timelines through we might be able to help.
 
-Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help you realize your idea, and grant money from us or other partners / funders to help realize the idea. This might include (but is not limited to):
-- Mini-grants up to $10,000 to support the idea
-- Larger grants ($100K+) for more developed and large-scale ideas
-- Help with legislative and government advocacy for a particular policy idea
-
-Note that certain kinds of support (such as network and connections / policy feedback, smaller grants) may be possible on a quicker time scale than other types of support (larger grants).
+Further support may include further feedback from policy and technical experts, access to a community of policymakers and technical engineers to help you realize your idea, and grant money to help realize the idea.
 
 Once a proposal is submitted, you can also submit modifications to your proposal and we will review it again.
 
-## 4. Current funding priorities
+## 4. Past funding priorities
 
-While we encourage you to share any proposal that systemically addresses the sustainability of the OSS ecosystem, here are the current funding priorities from Plaintext Group:
+We encourage you to share any proposal that systemically addresses the sustainability of the OSS ecosystem. Plaintext is not actively funding additional proposals in 2023, but you are welcome to share your proposal in this repository. Here are past priorities for Plaintext:
 
-### July - December 2022 (current)
+### July - December 2022
 
-We plan for 2022 to focus more narrowly on informing and strengthening US federal policy open source software. This involves three main categories:
+In 2022, we focused more narrowly on informing and strengthening US federal policy open source software. This involves three main categories:
 
 1. Emphasizing that "OSS is infrastructure" so it can be seen as something to be maintained long-term. Additionally, broaden the concept of OSS / digital infrastructure to include aspects that may not have been traditionally funded (such as code refactoring, maintenance, community management, and documentation writing).
 2. Helping catalyze and support the implementation of additional avenues of public (US federal government) funding for OSS.
