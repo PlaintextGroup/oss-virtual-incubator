@@ -51,11 +51,11 @@ Once a proposal is submitted, you can also submit modifications to your proposal
 
 ## 4. Past funding priorities
 
-We encourage you to share any proposal that systemically addresses the sustainability of the OSS ecosystem. Plaintext is not actively funding additional proposals in 2023, but you are welcome to share your proposal in this repository. Here are past priorities for Plaintext:
+We encourage you to share any proposal that systemically addresses the sustainability of the OSS ecosystem. Plaintext is not actively funding additional proposals in 2023, but you are welcome to share your proposal in this repository; we would still welcome contributions to this repository as a way to discuss / refine ideas and ultimately get proposals other kinds of support they may need (i.e., funding or attention from other funders, more attention for an idea, connections to policymakers, etc.).
 
 ### July - December 2022
 
-In 2022, we focused more narrowly on informing and strengthening US federal policy open source software. This involves three main categories:
+In 2022, Plaintext focused more narrowly on informing and strengthening US federal policy open source software. This involves three main categories:
 
 1. Emphasizing that "OSS is infrastructure" so it can be seen as something to be maintained long-term. Additionally, broaden the concept of OSS / digital infrastructure to include aspects that may not have been traditionally funded (such as code refactoring, maintenance, community management, and documentation writing).
 2. Helping catalyze and support the implementation of additional avenues of public (US federal government) funding for OSS.
