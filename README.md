@@ -1,3 +1,6 @@
+**Note:** The Open Source Software Virtual Incubator is now archived, but proposals are still available to view in this repository. Plaintext Group was a nonpartisan, technology innovation policy initiative developed by Schmidt Futures. For more information, see [https://www.schmidtfutures.com/our-work/plaintext/].
+
+
 # Open Source Software Virtual Incubator
 
 ## tl;dr
